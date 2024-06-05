@@ -1,3 +1,5 @@
+[![Math Utility Project(CI include)](https://github.com/kietvo1248/math-util-1805/actions/workflows/maven.yml/badge.svg)](https://github.com/kietvo1248/math-util-1805/actions/workflows/maven.yml)
+
 # WELCOME TO MATH UTILITY REPOSITORY
 
 # You will find in this repo the following stuff
