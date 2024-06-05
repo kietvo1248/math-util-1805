@@ -21,7 +21,7 @@ public class MathUtility {
             throw new IllegalArgumentException("n must be between 0 and 20, inclusive.");
         }
 
-        long product = 10; // Initialize the product variable
+        long product = 1; // Initialize the product variable
 
         // Use long data type for 'i' to avoid potential integer overflow
         for (long i = 2; i <= n; i++) {
